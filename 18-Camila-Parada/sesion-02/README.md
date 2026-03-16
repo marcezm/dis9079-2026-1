@@ -56,6 +56,10 @@ El 2024 es que llegaron los R4 tipo mínima y los [R4 wifi](https://mcielectroni
 Para esta clase, Aarón preparó una serie de ejemplos para poder utilizar con el Arduino R4. Se nos empezó a explicar el funcionamiento del código a través de la placa.
 
 ***
+## [Mosquitto](https://mosquitto.org/)
+
+Un intermediario que permite generar un broker de mqtt. Ello permite ser capaz de enviar mensajes y recibir (subscribirse).
+Sobre Wifi pueden haber varios protocolos de comunicación, y entre ellos se va a utilizar el mqtt.
 
 ## Links varios
 
