@@ -20,7 +20,6 @@
 #define MQTT_PORT 1883
 
 
-
 const char *grupos[] = {
     "aaron",
     "grupo-01",

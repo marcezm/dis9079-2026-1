@@ -44,63 +44,65 @@ hicimos 11 grupos, y repartimos los Arduino Uno R4 WiFi entre ellos, para que pu
 
 ## lista por grupos
 
-### grupo-01
+### grupo-01 (arduino y raspberry entregados)
 
 * sofiacartes
 * Monserrat-Paredes
 * vxlentiinaa
 
-### grupo-02
+### grupo-02 (arduino y raspberry entregados)
 
 * magdalenabalart
 * jesumirandaa
 * ccarlabelenn
 
-### grupo-03
+### grupo-03 (arduino y raspberry entregados)
 
 * antokiaraa
 * tomascatri
 * angel-udp
 
-### grupo-04
+### grupo-04 (arduino y raspberry entregados)
 
 * AlegriaColoma
 * antolavalle
 * catasal
 
-### grupo-05
+### grupo-05 (arduino y raspberry entregados)
 
 * felipecaurapan
 * Camila-Parada
 * paredesvania
 
-### grupo-06
+### grupo-06 (arduino y raspberry entregados)
 
 * arevalourra
 * isipm08
 * nicolasvaldesgreve
 
-### grupo-07
+### grupo-07 (arduino y raspberry entregados)
 
 * josefa-kristina
 * DebSkar
 * cristobalvergarasilva
 
-### grupo-08 y grupo-09
+### grupo-08 (arduino y raspberry entregados) 
 
 * brauliofigueroa2001
-* Guilleibanez
-* TBD
-* marlensoto-lab
 * Luisaatoro9
+
+### grupo-09 (arduino y raspberry entregados)
+
+* Guilleibanez
+* marlensoto-lab
 * marcezm
 
-### grupo-10
+### grupo-10 (arduino y raspberry entregados)
 
 * agustinaaceituno
 * AntFuentealba
 
-### grupo-11
+### grupo-11 (arduino y raspberry entregados)
 
 * benjaminalvarez21
 * Anaysval
