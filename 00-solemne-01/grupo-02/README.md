@@ -1,10 +1,10 @@
-# amistadesamigo
+# friendshipisfriend-02 
 
 ## integrantes
 
 * Magdalena Balart
-* Jesús Miranda
-* Carla Nuñez
+* Jesus Miranda
+* Carla Nuñez 
 
 ## descripción del proyecto
 
