@@ -8,15 +8,17 @@
 
 ## descripción del proyecto
 
-introducción: descripción general del proyecto, qué hace, para qué sirve, etc.
-
-desarrollo: descripción detallada del proyecto, cómo se implementó, qué tecnologías se utilizaron, etc.
-
-elemento adicional: usaron un botón, hicieron algún texto, hicieron algún led.
-
-## bill of materials
+## materiales usados en solemne-01
 
 | Componentes | Tipo | Qty | Valor/tipo | Precio | Link |
 |-------------|------|-----|------------|--------|------|
 | Arduino UNO R4 WiFi | Tarjetas de Desarrollo | 1 | 5 V | $38.990 | <https://mcielectronics.cl/shop/product/arduino-uno-r4-minima> |
 | Raspberry Pi 2 W | Tarjetas de Desarrollo | 1 | 1,8–5,5 V | $14.990 | <https://mcielectronics.cl/shop/product/74358/> |
+
+## código usado con Adafruit IO
+
+### código para enviar
+
+### código para recibir
+
+## bill of materials
