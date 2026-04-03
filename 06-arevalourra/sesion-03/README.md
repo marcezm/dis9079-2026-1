@@ -52,12 +52,14 @@ Pico 2 → versión más nueva (más potente)
 ## Conexiones
 
 SPI -> conecta cosas como pantallas (usa varios cables, rápido)
+
 I2C -> usa menos cables (2 principales), más simple
 
 
 **Conceptos básicos**
 
 stdio -> entrada y salida de datos (input/output)
+
 SDK -> herramientas para programar (kit de desarrollo)
 
 
