@@ -78,5 +78,5 @@ Esto me ayudó a entender cómo distintos dispositivos pueden comunicarse entre 
 
 
 
-*[Texto de investigación redactado personalmente y reestructurado con ayuda de ChatGPT]*
+*[Texto de investigación redactado personalmente y reestructurado con ayuda de ChatGPT + toques personales]*
 
