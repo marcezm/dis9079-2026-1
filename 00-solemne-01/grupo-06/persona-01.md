@@ -77,5 +77,5 @@ En nuestro proyecto, la Raspberry Pi Pico 2 W cumple el rol de receptor, ya que 
 Esto me ayudó a entender cómo distintos dispositivos pueden comunicarse entre sí y cómo algo físico puede responder a datos que vienen desde la nube.
 
 
-
+*[Texto de investigación redactado personalmente y reestructurado con ChatGPT]*
 
