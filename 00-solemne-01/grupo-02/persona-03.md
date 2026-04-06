@@ -36,4 +36,6 @@ encontré piezas clave para esta magia:
 
 + primero está  el módulo de radio de baja latencia, usan frecuencias específicas (varias veces fuera del wifi común para evitar interferencias) que permiten que los drones hablen entre sí iles de veces por segundo
 + la unidad de medición inercial, un chip que combina acelerómetros y giroscopios. es lo que permite que el dron sepa si está inclinado, asegurando que el movimiento sea fluido y no tiemble
-+ el microcontrolador de alta velocidad es el encargado de recibir los datos inalámbricos de los otros drones y deidir qué potencia enviarle a cada motor en tiempo real 
++ el microcontrolador de alta velocidad es el encargado de recibir los datos inalámbricos de los otros drones y deidir qué potencia enviarle a cada motor en tiempo real
+
+en el franchise freedom los drones no solo vuelan, tienen una firma lumínica. los condensadores de la placa led están diseñados para que la luz no se apague de golpe, si no que tenga un fade suave, imitando cómo la luz del sol rebota en las alas de un pájaro real 
