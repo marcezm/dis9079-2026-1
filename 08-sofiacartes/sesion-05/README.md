@@ -167,4 +167,9 @@ Para usuarios que utilizan la plataforma de configuración sin código, la gesti
 *información sacada de: <https://learn.adafruit.com/adafruit-io-basics-dashboards>*
 
 ![instalaciónAdaIO](./imagenes/instalaciónAdaIO.jpg)
+
+**Prueba en clases**
+
+En un momento al conectarlo a A1 el botón que añadimos nos hacia la función de reset del botón del arduino, pero en la protoboard.
+
 ![proceso1](./imagenes/proceso1.gif)
