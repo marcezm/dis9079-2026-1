@@ -7,13 +7,13 @@ investigaciones individuales
 
 ## sobre artista, diseñadora o producto que usa electrónica o computación inalámbricas
 
+## Golan Levin
+
 Golan Levin es un artista, programador y diseñador estadounidense clave en el campo del arte digital interactivo. Su trabajo se sitúa entre el arte, la tecnología y la comunicación, explorando cómo las personas pueden interactuar con sistemas computacionales en tiempo real.
 
 + Se enfoca en la interacción humana con máquinas: sus obras reaccionan al movimiento, la voz o el comportamiento del público.
-
-Mezcla código, imagen, sonido y participación.
-  
-Sus proyectos suelen ser lúdicos, pero también críticos: cuestionan cómo nos relacionamos con la tecnología.
++ Mezcla código, imagen, sonido y participación.
++Sus proyectos suelen ser lúdicos, pero también críticos: cuestionan cómo nos relacionamos con la tecnología.
 
 Tipos de obras que hace
 
