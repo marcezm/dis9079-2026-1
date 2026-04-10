@@ -8,7 +8,9 @@
 
 ## descripción del proyecto
 
-- El proyecto se basa en mandar una señal a través de Adafruit IO al Arduino r4 wifi
+Nuestro proyecto se basa en el desarrollo de un sistema de interacción inalámbrica entre un microcontrolador Arduino y la plataforma en la nube/web Adafruit IO, con el objetivo de controlar dispositivos de manera remota a través de la misma conexión (internet). 
+
+Por un lado, el Arduino es capaz de almacenar datos, en este caso si el botón está encendido o apagado, y enviarlos en tiempo real hacia Adafruit IO utilizando conexión a internet. Estos datos son almacenados y controlados en un dashboards personalizado dentro de la plataforma Adafruit. El proyecto permite el control remoto del Arduino desde Adafruit IO, a través de elementos interactivos como el botón de on/off dentro del dashboard que Arduino recibe; activando y desactivando la pantalla Oled, donde esta muestra un pictograma de gatito saludando, y cuando aprietes el off, el gatito desaparece.
 
 ## materiales usados en solemne-01
 
@@ -311,3 +313,8 @@ rellenar en el mismo orden que los integrantes del grupo
 [persona-03.md](./persona-03.md)
 
 ## bibliografía
+
+- Github Adafruit IO <https://github.com/adafruit/Adafruit_IO_Arduino>
+- Arduino libraries Adafruit IO <https://docs.arduino.cc/libraries/adafruit-io-arduino/>
+- Adafruit IO <https://learn.adafruit.com/adafruit-io/arduino>
+- Adafruit IO overview <https://io.adafruit.com/vxlentiinaa/overview>
