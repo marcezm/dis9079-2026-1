@@ -114,6 +114,8 @@ Como no entendíamos cual era el problema, decidimos preguntar a la IA (ChatGPT)
 
 ![Luz interna arduino](./imagenes/luzarduino-final.gif)
 
+Se hizo cambio de cable, de 5V a Pin 8, y funcionó, al estar en 5V haciá que el led se mantuviera encendido siempre
+
 ![LED con cables bien puestos](./imagenes/led-bien-conectado.jpeg)
 
 Cuando probamos otro código, la placa se conectó a Adafruit IO y empezó a recibir la información de encendido y apagado los cuales se representaban como "1" el cual era encendido, y con "0" el cual era apagado.
@@ -125,6 +127,7 @@ Cuando probamos otro código, la placa se conectó a Adafruit IO y empezó a rec
 
 ![Reacción](./imagenes/react.gif)
 
+ LOGRADO!!!
 
 ---
 
