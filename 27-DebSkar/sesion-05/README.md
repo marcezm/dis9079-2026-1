@@ -4,4 +4,4 @@
 
 Durante esta clase, solucionamos algunas cosas que nos estaban fallando con Adafruit IO y el Arduino, para empezar se nos dijo que habíamos puesto mal las claves en el código y después que había que actualizar el firmware del Arduino, así que el profesor la actualizó, corregimos las claves y probamos el ejercicio que nos habían dado, y funcionó todo bien.
 
-Cómo había funcionado,quedamos con ganas de seguir probando cosas, y en el discord habían mandado un tutorial para controlar una led rgb. 
+Cómo había funcionado,quedamos con ganas de seguir probando cosas, y en el discord habían mandado un tutorial para controlar una led rgb, intentamos recrear ese código pero cambiandolo por un led "normal" y nada nos funcionaba, estuvimos tratando de ocupar otros códigos, le preguntamos a otros compañeros que si les funcionó y dijeron que la IA les había dicho como hacerlo, así que nosotros también le preguntamos, pero no funcionó, a lo mejor y el prompt que usamos estaba mal redactado.
