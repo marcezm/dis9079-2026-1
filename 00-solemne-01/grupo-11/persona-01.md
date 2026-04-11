@@ -4,6 +4,54 @@ investigaciones individuales
 
 ## sobre adafruit i/o
 
+### Proceso de instalación
+Primero investigué qué era Adafruit IO, y es una plataforma que permite conectar dispositivos a internet para enviar y recibir datos.
+
+Lo primero que hice fue crear una cuenta, después de eso entré a IO, donde aparecen los feeds y dashboards.
+
+Luego usé el Arduino para programar y tuve que instalar las librerías necesarias para poder conectar el Arduino con Adafruit IO.
+
+Después configuré el código agregando mi usuario, la key y la red WiFi. Estos datos son importantes porque permiten que el dispositivo se conecte a la plataforma :)
+
+- Instalar Arduino IDE
+- Seleccionar placa: Arduino Uno R4 WiFi
+- Abrir “Administrar bibliotecas”
+  
+ ### Instalar:
+- Adafruit MQTT Library
+- ArduinoHTTPClient
+- Adafruit IO Arduino (última versión)
+  
+ ### Configurar en el código:
+ 
+- WiFi (nombre y contraseña)
+- Username
+- Key de Adafruit IO
+  
+- Conectar Arduino al PC
+- Seleccionar puerto
+- Subir código
+  
+### Conceptos básicos:
+
+### Feeds
+
+Entendí que los feeds son muy importantes en Adafruit IO. Son como espacios donde se guardan los datos que envía el dispositivo.
+
+### Datos
+
+Son la información que quiero guardar, como temperatura, humedad o si algo está prendido o apagado, etc.
+
+### Dashboards
+
+Los dashboards son donde puedo ver los datos y también controlar cosas.
+
+Feed = guarda datos
+
+Dashboard = muestra datos
+
+WiFi = conecta todo
+
 ## sobre artista, diseñadora o producto que usa electrónica o computación inalámbricas
 
 #Incertitudes" by Ying Gao
