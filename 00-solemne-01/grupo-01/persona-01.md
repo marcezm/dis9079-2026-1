@@ -73,7 +73,7 @@ Así se ve como pagina principal
 #define IO_KEY       "sdfgh"
 ```
 
-siempre hay que colocar esa línea, para que el arduino no olvide el adafruit IO
+Siempre hay que colocar esa línea, para que el arduino no olvide el adafruit IO
 
 ```cpp
 io.run();
@@ -181,7 +181,7 @@ void loop()
 }
 ```
 
-este fue parte del trabajo en clases en grupo 
+*Este fue parte del trabajo en clases en grupo* 
 
 ### Conexión con Adafruit IO
 
@@ -217,7 +217,7 @@ if(valor == "ON") {
 
 Controla el estado de la pantalla según el mensaje recibido.
 
-*estas son partes del código final, el cual se buscó para lograr los ON/OFF con la pantalla.*
+*Estas son partes del código final, el cual se buscó para lograr los ON/OFF con la pantalla.*
 
 ### Wokwi Animator
 
