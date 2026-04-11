@@ -40,12 +40,6 @@ Creamos un feed en Adafruit IO con el nombre de led-control y un Dashboard vincu
 ![arduino conectado al led](./imagenes/arduino-conectado-a-led.jpeg)
 
 
-## Materiales usados en solemne-01
-- 1 Arduino UNO R4 WIFI 
-- 1 protoboard 400 puntos
-- 1 pin LED 
-- 1 OHM resistor de 220
-- 1 cable Dupont M/M
 
 | Componente | Cantidad | Valor Unidad | Link |
 | --- | --- | --- | --- |
