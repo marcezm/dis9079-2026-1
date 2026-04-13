@@ -3,6 +3,7 @@
 ## integrantes
 
 • Marlén Soto Soto
+
 • Marcela Zúñiga
 
 ## descripción del proyecto
