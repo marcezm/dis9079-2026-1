@@ -1,18 +1,24 @@
 # grupo-04
 
-## integrantes
+## Integrantes
 
-* antonella lavalle
-* catalina salinas <https://github.com/catasal/dis9079-2026-1>
-* martina alegria
+* Antonella Lavalle
+* Catalina Salinas
+* Martina Alegria
 
-## descripción del proyecto
+## Descripción del proyecto
 
-## materiales usados en solemne-01
+Este proyecto se desarrolló como un ejercicio práctico para la primera etapa de la solemne, con el objetivo de introducirnos en el uso de tecnologías IoT a través de Arduino. En un comienzo el enfoque estuvo en preparar el entorno de trabajo, instalando los programas necesarios y logrando que el Arduino UNO R4 WiFi se conectara correctamente a internet.
 
-## código usado con Adafruit IO
+Una vez resuelta esa parte, se estableció una comunicación inalámbrica con la plataforma Adafruit IO. Mediante credenciales de acceso, el Arduino puede enviar datos como lecturas de sensores o valores simples a un feed en la nube, y también recibir información desde este para ejecutar acciones.
 
-### código para enviar
+En general el proyecto permite entender de forma práctica cómo funciona el internet de las cosas, ya que se trabaja con un sistema donde un dispositivo físico se conecta a internet para intercambiar datos en tiempo real con una plataforma digital.
+
+## Materiales usados en solemne-01
+
+## Código usado con Adafruit IO
+
+### Código para enviar
 
 <img width="1900" height="940" alt="Captura de pantalla 2026-04-06 160014" src="https://github.com/user-attachments/assets/a316168d-0b0f-4ed2-9a27-c916991a1805" />
 
