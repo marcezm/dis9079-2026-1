@@ -15,7 +15,7 @@ Routter del curso: Arduino se conectara a la red wifi
 
 https://tigervnc.org/
 
-es un sistema de escritorio gráfico compartido que le permite controlar remotamente otros ordenadores.
+Es un sistema de escritorio gráfico compartido que le permite controlar remotamente otros ordenadores.
 
 Ayuda a instalar las cosas, renderizar el escritorio y permite instalar cosasde manera mas rapida.
 sudo rf: borra todo el disco duro del computador
@@ -26,9 +26,9 @@ Ejemplo grupo 01: enviar a arduino R4 wifi
 
 
 Arduino01
-clave: dis9079
+clave: blablabla
 
-
+```cpp
 /*
   ArduinoMqttClient - WiFi Simple Sender
 
@@ -149,6 +149,8 @@ void loop() {
     count++;
   }
 }
+```
+
 
 Pudo enviar el mensaje, pero no recibir 
 
@@ -173,16 +175,16 @@ Antes de Shannon, la información era algo vago. Él fue quien popularizó el t�
 
 Shannon definió un modelo universal de comunicación que es exactamente lo que estás replicando en tu tarea de Adafruit:
 
--Fuente: Tu Arduino.
+- Fuente: Tu Arduino.
 
--Transmisor: El chip WiFi de tu placa.
+- Transmisor: El chip WiFi de tu placa.
 
--Canal: El aire (ondas de radio).
+- Canal: El aire (ondas de radio).
 
--Ruido: Las interferencias que hacían que te salieran "signos de interrogación".
+- Ruido: Las interferencias que hacían que te salieran "signos de interrogación".
 
--Receptor: Los servidores de Adafruit.
+- Receptor: Los servidores de Adafruit.
 
--Destino: Tu otra computadora.
+- Destino: Tu otra computadora.
 
 
