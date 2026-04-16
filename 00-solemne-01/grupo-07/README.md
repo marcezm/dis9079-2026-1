@@ -8,7 +8,11 @@
 
 ## Descripción del proyecto
 
-El Arduino se conecta a una red Wi-Fi y establece comunicación con Adafruit IO mediante el protocolo MQTT en el Arduino IDE. Desde cualquier otro computador o celular, se accede al *dashboard* de Adafruit IO en el navegador y se presiona un botón *toggle*. Ese click viaja por internet hasta los servidores de Adafruit, los cuales lo reenvían al Arduino. Finalmente, la placa recibe el mensaje y enciende o apaga el LED.
+Nuestro proyecto grupal partió desde entender como funcionan las conexiones básicas de un Arduino UNO R4 WIFI, que es una placa de desarrollo que permite a los usuarios aprovechar tanto Wi-Fi como Bluetooth para manejar dispositivos de forma remota mediante ARDUINO IDE, que es un software a través del cual se puede escribir código y subirlo a la placa sin necesidad de internet. Por otro lado trabajamos con Adafruit IO, que es la nube virtual que permite agregar, almacenar, visualizar y transmitir datos con otros dispositivos a través de internet, propiedad de Adafruit que es una empresa de Hardware de código abierto.
+
+El Arduino se conecta a una red Wi-Fi y establece comunicación con Adafruit IO mediante el protocolo MQTT en el Arduino IDE. Desde cualquier otro computador o celular, se accede al *dashboard* de Adafruit IO en el navegador que es un panel que permite visualizar y controlar dispositivos, al cual se pueden agregar "Blocks" que son paneles con los cuales se pueden interactuar y que van conectados a un "Feed" que es la base donde se almacenan los datos que se están traspasando y por último se presiona un botón *toggle*. Ese click viaja por internet hasta los servidores de Adafruit, los cuales lo reenvían al Arduino. Finalmente, la placa recibe el mensaje y enciende o apaga el LED.
+
+![Diagrama conexiones](./imagenes/Capturadepantalla.png)
 
 ### Proceso conexiones inalámbricas
 ![Diagrama conexiones](./imagenes/diagrama-nube.png)
@@ -166,4 +170,7 @@ rellenar en el mismo orden que los integrantes del grupo
 
 **Adafruit IO basics color** <https://learn.adafruit.com/adafruit-io-basics-color>
 
-**Arduino cheat sheet** <http://docs.arduino.cc/tutorials/uno-r4-wifi/cheat-sheet/?utm_source=chatgpt.com>
+**Arduino cheat sheet** https://docs.arduino.cc/tutorials/uno-r4-wifi/cheat-sheet/
+
+**Tutorial Adafruit IO** https://mkelectronica.com/aprende-a-utilizar-la-plataforma-adafruit-io-para-tus-dispositivos-iot-parte-1/
+
