@@ -4,81 +4,137 @@ lunes 23 marzo 2026
 
 El objetivo principal del proyecto es lograr comunicación entre dos dispositivos distintos, (Arduino Uno R4 WiFi) (Raspberry Pi Pico 2 W)
 
-La Raspberry Pi Pico 2 W es una placa pensada para proyectos electrónicos e IoT. Es barata y rinde bien para lo que hace. La fundación Raspberry Pi nació en 2009 con la idea de crear computadores accesibles.
+### Microcontroladores y plataformas
 
-### Características principales de la Pico 2 W:
+### Raspberry Pi Pico 2 W
+
+Es una placa pensada para proyectos electrónicos e IoT, económica y eficiente.
+
+Características:
 
 - Chip: RP2350
 - Doble núcleo
-- Wi-Fi (802.11n)
+- WiFi (802.11n)
 - Bluetooth 5.2
 
-Arduino y Raspberry Pi no son lo mismo. Arduino es más simple y se usa para tareas específicas. Raspberry Pi es más potente y puede hacer cosas más complejas.
+La fundación Raspberry Pi nace en 2009 con el objetivo de hacer la computación más accesible.
 
-### Diferencias clave:
+### Arduino vs Raspberry Pi
 
-- Arduino - microcontrolador simple
-- Raspberry Pi - sistema más completo
-- Arduino - tareas específicas
-- Raspberry Pi - procesos más avanzados
+### Arduino
 
-### También cambian los lenguajes que se usan:
+- Microcontrolador
+- Más simple
+- Ideal para tareas específicas
+- Se programa en C++
 
-- Arduino - C++
-- Raspberry Pi - Python / MicroPython
+### Raspberry Pi (Pico)
 
-### Para programar, hay algunos conceptos básicos importantes:
+- Sistema más completo
+- Más potente
+- Permite procesos más complejos
+- Se puede programar en Python o MicroPython
+  
+### Otras plataformas
+
+Existen otras herramientas relacionadas con electrónica y arte digital:
+
+- BeagleBoard - hardware open source
+- Bela - audio en tiempo real
+- Daisy (Electro-Smith) - audio avanzado
+- Monome / Critter & Guitari - instrumentos digitales
+- NIME - investigación en interfaces musicales
+  
+### Entorno de desarrollo
+
+Se trabaja con Visual Studio Code.
+
+Lenguajes usados:
+
+- C++
+- Python
+- MicroPython
+
+Conceptos importantes:
 
 - Extensiones - agregan funciones
 - SDK - herramientas para desarrollar
-- Build - proceso de compilar el código
+- Build - proceso de compilación del código
+  
+### Estructura de un proyecto
 
-Se trabaja en Visual Studio Code, que sirve para C++ y Python.
+Archivos comunes:
 
-### Arduino:
+- `.vscode` - configuración  
+- `build` - archivos compilados  
+- `.gitignore` - archivos no compartidos  
+- `main.cpp` - archivo principal  
+- `CMakeLists.txt` - configuración de compilación 
 
-- setup() - se ejecuta una vez
-- loop() - se repite siempre
+### Lógica de programación
 
-### Raspberry Pi Pico:
+### Arduino
+ ```cpp
+void setup() {
+  // se ejecuta una vez
+}
 
-- Todo parte en main()
-- El código se ejecuta en orden
-- Se usa while(true) para repetir el programa constantemente
+void loop() {
+  // se repite siempre
+}
+```
 
-### Historia breve de la computación
-- Harvard Mark I - computador electromecánico
-- Mainframe - computadores centrales
-- Atari 2600 - videojuegos
-- Commodore 64 - computador personal
-- ZX Spectrum - computador doméstico
+### Raspberry Pi Pico
 
-### Otros microcomputadores y microcontroladores:
+```cpp
+int main() {
+    while (true) {
+        // bucle infinito
+    }
+}
+```
 
-BagleBoard https://www.beagleboard.org/
+En Arduino se usa setup() y loop(), mientras que en Raspberry Pi Pico todo comienza en main() y se ejecuta en orden.
 
-Bela Platform https://bela.io/
+### Protocolos de comunicación
 
-Electro-Smith https://electro-smith.com/
+### SPI
+
+- Comunicación rápida
+- Usa varios pines
+- Ideal para pantallas
+  
+### I2C
+
+- Usa menos cables
+- Más simple
+- Permite conectar varios dispositivos
+
+### Para que la comunicación funcione:
+
+- Ambos dispositivos deben estar conectados
+- Deben usar el mismo protocolo o sistema de comunicación
+- Uno envía datos y el otro los recibe correctamente
 
 ---
 
-Solemne 1: 6 abril
+Solemne 1: 6 de abril
 
-pauta
+### Pauta
 
-la nota tiene 1 punto base más 6 puntos evaluados.
+La nota tiene 1 punto base más 6 puntos evaluados.
 
-los 3 primeros puntos son criterios individuales los 3 siguientes puntos son criterios grupales
+Los 3 primeros puntos son criterios individuales, los 3 siguientes puntos son criterios grupales.
 
-individual:
+### Individual:
 
 1 punto por calidad de la presentación oral
 
 1 punto por bitácora personal textual y visual del trabajo en clases e investigación personal
 
 1 punto por aportes al README.md grupal de texto y visuales explicativas, por las referencias
-grupal:
+
+### Grupal:
 
 1 punto por diagrama de flujo del proyecto
 
