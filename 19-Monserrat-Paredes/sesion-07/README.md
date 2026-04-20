@@ -82,8 +82,7 @@ void loop()
 ```
 
 
-<img width="904" height="501" alt="SESION6" src="https://github.com/user-attachments/assets/a0e2fb09-c48b-40c0-9df9-2f3ee2902da0" />
-
+<img width="692" height="527" alt="Arduino" src="https://github.com/user-attachments/assets/c9dcf80c-deee-41f0-95a3-aad21fd0fca9" />
 
 
 
