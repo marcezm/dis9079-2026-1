@@ -208,4 +208,6 @@ void loop() {
 
 - buscar cómo reemplazar el potenciómetro en este circuito por el LDR
 
+- sentarse adelante
+
 
