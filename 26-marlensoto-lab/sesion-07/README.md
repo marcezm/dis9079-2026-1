@@ -48,3 +48,8 @@ Revisar los apuntes de la asignatura **Máquinas en Diseño UDP** para complemen
 ### Ejercicicos en clases 
 ![Protoboard](imagenes/protoboard_arduino_coneccion.png)
 
+![Conecciones](imagenes/ejercicio_clases.png)
+
+
+https://github.com/user-attachments/assets/ef11a73e-cc90-4aab-90f0-cbc011e4b33e
+
